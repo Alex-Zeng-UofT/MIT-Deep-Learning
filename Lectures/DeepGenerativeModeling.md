@@ -41,4 +41,20 @@ Regularized Term measures the performance of the new inferred distribution relat
 
 ![image](https://github.com/Alex-Zeng-UofT/MIT-Deep-Learning/assets/114100209/4c4e9e14-b213-4cf9-bf73-9572a05e781f)
 
+## Generative Adversarial Networks
+
+![image](https://github.com/Alex-Zeng-UofT/MIT-Deep-Learning/assets/114100209/7ebe61a4-1358-4416-8fbc-eddef3f1096e)
+
+> GANs are distribution transformers
+
+![image](https://github.com/Alex-Zeng-UofT/MIT-Deep-Learning/assets/114100209/83200d30-c985-4ed9-aa46-9630a05e58ce)
+
+
+### Paired GAN
+
+![image](https://github.com/Alex-Zeng-UofT/MIT-Deep-Learning/assets/114100209/404b4f44-c560-4df9-aa0f-51483834331e)
+
+### CycleGAN: Domain Transformation
+
+![image](https://github.com/Alex-Zeng-UofT/MIT-Deep-Learning/assets/114100209/4f9c6a8d-6da7-45ac-8f3d-d697ee5b7dfd)
 
